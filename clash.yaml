@@ -36,7 +36,7 @@ proxies:
   ws-path: /ny
 - alterId: 0
   cipher: auto
-  name: '[10-31]|oslook|美国USUSA/Newark_4'
+  name: '[11-01]|oslook|美国USUSA/Newark_4'
   network: ws
   port: 443
   server: 104.16.38.252
@@ -48,7 +48,7 @@ proxies:
   ws-path: /The-Great-Awakening_vws
 - alterId: 64
   cipher: auto
-  name: '[10-31]|oslook|美国USUSA/San Francisco_5'
+  name: '[11-01]|oslook|美国USUSA/San Francisco_5'
   network: ws
   port: 443
   server: 104.26.9.74
@@ -60,7 +60,7 @@ proxies:
   ws-path: /sshocean
 - alterId: 1
   cipher: auto
-  name: '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  name: '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
   network: ws
   port: 666
   server: v1-aws-hk-06.niaoyun.online
@@ -71,20 +71,20 @@ proxies:
     Host: t.me/vpnpool
   ws-path: /niaocloud
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_7'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_7'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 134.195.196.231
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_8'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_8'
   password: faBAoD54k87UJG7
   port: 2376
   server: 134.195.196.179
   type: ss
 - alterId: 0
   cipher: auto
-  name: '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  name: '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   network: ws
   port: 22080
   server: ctsh1.racernet.link
@@ -103,14 +103,14 @@ proxies:
   uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb
   ws-path: /ny
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_11'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_11'
   password: g5MeD6Ft3CWlJId
   port: 5004
   server: 134.195.196.199
   type: ss
 - alterId: 0
   cipher: auto
-  name: '[10-31]|oslook|美国USUSA/San Francisco_12'
+  name: '[11-01]|oslook|美国USUSA/San Francisco_12'
   network: ws
   port: 443
   server: 104.19.101.62
@@ -121,61 +121,61 @@ proxies:
     Host: cc.1808.cf
   ws-path: /zeduvws?ed=2048
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_13'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_13'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 134.195.196.179
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_14'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_14'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 134.195.196.60
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_15'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_15'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 134.195.196.202
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_16'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_16'
   password: g5MeD6Ft3CWlJId
   port: 5003
   server: 134.195.196.179
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
+  name: '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 172.105.167.214
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_18'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_18'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 134.195.196.199
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_19'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_19'
   password: g5MeD6Ft3CWlJId
   port: 5004
   server: 134.195.196.60
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_20'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_20'
   password: g5MeD6Ft3CWlJId
   port: 5003
   server: 134.195.196.60
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_21'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_21'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 134.195.196.50
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_22'
   password: g5MeD6Ft3CWlJId
   port: 5004
   server: 134.195.196.193
@@ -192,7 +192,7 @@ proxies:
   ws-path: /ny
 - alterId: 1
   cipher: auto
-  name: '[10-31]|oslook|美国USUSA/San Francisco_24'
+  name: '[11-01]|oslook|美国USUSA/San Francisco_24'
   network: ws
   port: 80
   server: usdll2.jjyun.ren
@@ -201,20 +201,20 @@ proxies:
   uuid: d59e8d54-4914-4a07-80df-33fe2a7776ac
   ws-path: /jjyunml
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_25'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_25'
   password: Y6R9pAtvxxzmGC
   port: 3306
   server: 134.195.196.50
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_26'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_26'
   password: faBAoD54k87UJG7
   port: 2375
   server: 198.57.27.225
   type: ss
 - alterId: 1
   cipher: auto
-  name: '[10-31]|oslook|美国USUSA/Redwood City_27'
+  name: '[11-01]|oslook|美国USUSA/Redwood City_27'
   network: ws
   port: 443
   server: jp3.futi.online
@@ -223,44 +223,44 @@ proxies:
   uuid: 6a5b2dee-6e88-46db-9275-d8c6e042c3db
   ws-path: /
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|加拿大CACanada/Toronto_28'
+  name: '[11-01]|oslook|加拿大CACanada/Toronto_28'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 198.57.27.225
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|美国USUSA/Atlanta_29'
+  name: '[11-01]|oslook|美国USUSA/Atlanta_29'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 167.88.63.119
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|美国USUSA/Atlanta_30'
+  name: '[11-01]|oslook|美国USUSA/Atlanta_30'
   password: faBAoD54k87UJG7
   port: 2375
   server: 167.88.63.11
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|美国USUSA/Ashburn_31'
+  name: '[11-01]|oslook|美国USUSA/Ashburn_31'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 38.107.226.146
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|美国USUSA/Atlanta_32'
+  name: '[11-01]|oslook|美国USUSA/Atlanta_32'
   password: FoOiGlkAA9yPEGP
   port: 7306
   server: 167.88.63.99
   type: ss
 - cipher: aes-256-gcm
-  name: '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
+  name: '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
   password: faBAoD54k87UJG7
   port: 2376
   server: 172.99.190.35
   type: ss
 - alterId: 0
   cipher: auto
-  name: '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  name: '[11-01]|oslook|美国USUSA/Santa Clara_34'
   network: ws
   port: 27489
   server: 143.198.237.214
@@ -276,37 +276,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: select
 - interval: 300
   name: ♻️ 自动选择
@@ -314,37 +314,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: url-test
   url: http://www.gstatic.com/generate_204
 - name: 🌍 国外媒体
@@ -355,37 +355,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: select
 - name: 🌏 国内媒体
   proxies:
@@ -394,37 +394,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: select
 - name: Ⓜ️ 微软服务
   proxies:
@@ -433,37 +433,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: select
 - name: 📲 电报信息
   proxies:
@@ -472,37 +472,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: select
 - name: 🍎 苹果服务
   proxies:
@@ -512,37 +512,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: select
 - name: 🎯 全球直连
   proxies:
@@ -561,37 +561,37 @@ proxy-groups:
   - 香港05 免流80节点 解锁奈飞 流量倍速0.5 用2G只算1G的钱_1
   - 香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_2
   - vip3独享 香港三网优化 解锁奈飞 流量倍速0.5 用2G只算1G的钱_3
-  - '[10-31]|oslook|美国USUSA/Newark_4'
-  - '[10-31]|oslook|美国USUSA/San Francisco_5'
-  - '[10-31]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_7'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_8'
-  - '[10-31]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
+  - '[11-01]|oslook|美国USUSA/Newark_4'
+  - '[11-01]|oslook|美国USUSA/San Francisco_5'
+  - '[11-01]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_6'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_7'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_8'
+  - '[11-01]|oslook|中国香港/中国台湾CNChina/Pudong/可能是中转节点_9'
   - 台湾 5倍速节点_10
-  - '[10-31]|oslook|加拿大CACanada/Toronto_11'
-  - '[10-31]|oslook|美国USUSA/San Francisco_12'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_13'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_14'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_15'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_16'
-  - '[10-31]|oslook|澳大利亚AUAustralia/Sydney_17'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_18'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_19'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_20'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_21'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_22'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_11'
+  - '[11-01]|oslook|美国USUSA/San Francisco_12'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_13'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_14'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_15'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_16'
+  - '[11-01]|oslook|澳大利亚AUAustralia/Sydney_17'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_18'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_19'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_20'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_21'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_22'
   - 香港01 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23
-  - '[10-31]|oslook|美国USUSA/San Francisco_24'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_25'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_26'
-  - '[10-31]|oslook|美国USUSA/Redwood City_27'
-  - '[10-31]|oslook|加拿大CACanada/Toronto_28'
-  - '[10-31]|oslook|美国USUSA/Atlanta_29'
-  - '[10-31]|oslook|美国USUSA/Atlanta_30'
-  - '[10-31]|oslook|美国USUSA/Ashburn_31'
-  - '[10-31]|oslook|美国USUSA/Atlanta_32'
-  - '[10-31]|oslook|英国GBUnited+Kiongdom/London_33'
-  - '[10-31]|oslook|美国USUSA/Santa Clara_34'
+  - '[11-01]|oslook|美国USUSA/San Francisco_24'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_25'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_26'
+  - '[11-01]|oslook|美国USUSA/Redwood City_27'
+  - '[11-01]|oslook|加拿大CACanada/Toronto_28'
+  - '[11-01]|oslook|美国USUSA/Atlanta_29'
+  - '[11-01]|oslook|美国USUSA/Atlanta_30'
+  - '[11-01]|oslook|美国USUSA/Ashburn_31'
+  - '[11-01]|oslook|美国USUSA/Atlanta_32'
+  - '[11-01]|oslook|英国GBUnited+Kiongdom/London_33'
+  - '[11-01]|oslook|美国USUSA/Santa Clara_34'
   type: select
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
