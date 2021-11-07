@@ -4,14 +4,14 @@ log-level: info
 mode: Rule
 port: 7890
 proxies:
-- name: '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+- name: '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
   password: UiLPqefVfielqkDjEwBV
   port: 12443
   server: sh-hk-01-tr.cdn.savoy.click
   type: trojan
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  name: '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
   network: ws
   port: 80
   server: 7.yyds123.com
@@ -21,7 +21,7 @@ proxies:
   ws-path: /ny
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  name: '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
   network: ws
   port: 59477
   server: vip345.xyz
@@ -31,7 +31,7 @@ proxies:
   ws-path: /ny
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  name: '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
   network: ws
   port: 80
   server: 10.yyds123.com
@@ -41,7 +41,7 @@ proxies:
   ws-path: /ny
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  name: '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
   network: ws
   port: 81
   server: 6.yyds123.com
@@ -51,7 +51,7 @@ proxies:
   ws-path: /ny
 - alterId: 8
   cipher: auto
-  name: '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  name: '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
   network: ws
   port: 59075
   server: 1.transit.t.qjnodeip.xyz
@@ -63,7 +63,7 @@ proxies:
   ws-path: /Jb0
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  name: '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
   network: ws
   port: 56271
   server: vip345.xyz
@@ -73,7 +73,7 @@ proxies:
   ws-path: /ny
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点_8'
+  name: '[11-07]|oslook|台湾 5倍速节点_8'
   network: ws
   port: 35230
   server: vip345.xyz
@@ -81,7 +81,7 @@ proxies:
   type: vmess
   uuid: bac18e70-9964-3f99-805a-d809c4bdc6cb
   ws-path: /ny
-- name: '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+- name: '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
   password: ganfanbaipiao
   port: 12306
   server: az.iganfan.store
@@ -89,7 +89,7 @@ proxies:
   type: trojan
 - alterId: 0
   cipher: auto
-  name: '[11-06]|oslook|美国USUSA/San Francisco_10'
+  name: '[11-07]|oslook|美国USUSA/San Francisco_10'
   network: ws
   port: 443
   server: uuuss2.liuwei01.tk
@@ -101,7 +101,7 @@ proxies:
   ws-path: /liuwei
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  name: '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
   network: ws
   port: 666
   server: v1-aws-hk-11.niaoyun.online
@@ -113,7 +113,7 @@ proxies:
   ws-path: /niaocloud
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  name: '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
   network: ws
   port: 80
   server: 13.72.197.3
@@ -125,7 +125,7 @@ proxies:
   ws-path: /air.knayo.in
 - alterId: 8
   cipher: auto
-  name: '[11-06]|oslook|美国USUSA/Los Angeles_13'
+  name: '[11-07]|oslook|美国USUSA/Los Angeles_13'
   network: tcp
   port: 61173
   server: c23s3.jamjams.net
@@ -135,7 +135,7 @@ proxies:
   ws-path: /
 - alterId: 8
   cipher: auto
-  name: '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  name: '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
   network: tcp
   port: 61173
   server: 104.245.96.123
@@ -147,7 +147,7 @@ proxies:
   ws-path: t.me/vpnpool
 - alterId: 10
   cipher: auto
-  name: '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
+  name: '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
   network: ws
   port: 80
   server: ukdll.52jjyun.top
@@ -157,7 +157,7 @@ proxies:
   ws-path: /jjyun
 - alterId: 10
   cipher: auto
-  name: '[11-06]|oslook|韩国KRKorea/Seoul_16'
+  name: '[11-07]|oslook|韩国KRKorea/Seoul_16'
   network: ws
   port: 88
   server: kr.52jjyun.top
@@ -167,7 +167,7 @@ proxies:
   ws-path: /jjyun
 - alterId: 0
   cipher: auto
-  name: '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  name: '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
   network: tcp
   port: 30006
   server: 1.transit.nph.qjnodeip.xyz
@@ -177,7 +177,7 @@ proxies:
   ws-path: /
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|美国USUSA/San Francisco_18'
+  name: '[11-07]|oslook|美国USUSA/San Francisco_18'
   network: ws
   port: 80
   server: usdll2.jjyun.ren
@@ -187,7 +187,7 @@ proxies:
   ws-path: /jjyunml
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  name: '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
   network: ws
   port: 34725
   server: vip345.xyz
@@ -197,7 +197,7 @@ proxies:
   ws-path: /ny
 - alterId: 8
   cipher: auto
-  name: '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  name: '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
   network: ws
   port: 27435
   server: 1.transit.t.qjnodeip.xyz
@@ -209,7 +209,7 @@ proxies:
   ws-path: /JP03W
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  name: '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
   network: ws
   port: 666
   server: v1-aws-hk-01.niaoyun.online
@@ -221,7 +221,7 @@ proxies:
   ws-path: /niaocloud
 - alterId: 8
   cipher: auto
-  name: '[11-06]|oslook_22'
+  name: '[11-07]|oslook_22'
   network: ws
   port: 60649
   server: 1.transit.t.qjnodeip.xyz
@@ -233,7 +233,7 @@ proxies:
   ws-path: /HGzsmqibHG02Z
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  name: '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
   network: ws
   port: 80
   server: 8.yyds123.com
@@ -243,7 +243,7 @@ proxies:
   ws-path: /ny
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  name: '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
   network: ws
   port: 80
   server: 13.72.197.3
@@ -255,7 +255,7 @@ proxies:
   ws-path: /air.knayo.in
 - alterId: 8
   cipher: auto
-  name: '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  name: '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
   network: ws
   port: 22411
   server: 1.transit.t.qjnodeip.xyz
@@ -267,7 +267,7 @@ proxies:
   ws-path: /J02C
 - alterId: 8
   cipher: auto
-  name: '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  name: '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
   network: ws
   port: 15140
   server: 1.transit.t.qjnodeip.xyz
@@ -279,7 +279,7 @@ proxies:
   ws-path: /Ub6w
 - alterId: 0
   cipher: auto
-  name: '[11-06]|oslook|韩国KRKorea/Seoul_27'
+  name: '[11-07]|oslook|韩国KRKorea/Seoul_27'
   network: tcp
   port: 51476
   server: 132.226.172.134
@@ -289,7 +289,7 @@ proxies:
   ws-path: /
 - alterId: 0
   cipher: auto
-  name: '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
+  name: '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
   network: ws
   port: 443
   server: 130.61.120.243
@@ -301,7 +301,7 @@ proxies:
   ws-path: /114514
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  name: '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
   network: ws
   port: 80
   server: 2.yyds123.com
@@ -311,7 +311,7 @@ proxies:
   ws-path: /ny
 - alterId: 0
   cipher: auto
-  name: '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  name: '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
   network: tcp
   port: 30004
   server: 1.transit.nph.qjnodeip.xyz
@@ -321,7 +321,7 @@ proxies:
   ws-path: /
 - alterId: 2
   cipher: auto
-  name: '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
+  name: '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
   network: ws
   port: 39000
   server: 178.62.27.46
@@ -332,14 +332,14 @@ proxies:
     Host: t.me/vpnhat
   ws-path: /zz
 - cipher: aes-256-gcm
-  name: '[11-06]|oslook|加拿大CACanada/Toronto_32'
+  name: '[11-07]|oslook|加拿大CACanada/Toronto_32'
   password: g5MeD6Ft3CWlJId
   port: 5004
   server: 134.195.196.60
   type: ss
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  name: '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
   network: ws
   port: 16542
   server: 52.175.60.185
@@ -349,7 +349,7 @@ proxies:
   ws-path: /air.knayo.in
 - alterId: 10
   cipher: auto
-  name: '[11-06]|oslook|美国USUSA/Dallas_34'
+  name: '[11-07]|oslook|美国USUSA/Dallas_34'
   network: ws
   port: 80
   server: usdsl.52jjyun.top
@@ -359,7 +359,7 @@ proxies:
   ws-path: /jjyun
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  name: '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
   network: ws
   port: 666
   server: v1-aws-hk-05.niaoyun.online
@@ -370,14 +370,14 @@ proxies:
     Host: t.me/vpnpool
   ws-path: /niaocloud
 - cipher: aes-256-gcm
-  name: '[11-06]|oslook|加拿大CACanada/Toronto_36'
+  name: '[11-07]|oslook|加拿大CACanada/Toronto_36'
   password: PCnnH6SQSnfoS27
   port: 8090
   server: 134.195.196.179
   type: ss
 - alterId: 1
   cipher: auto
-  name: '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  name: '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
   network: ws
   port: 666
   server: v1-aws-hk-11.niaoyun.online
@@ -388,13 +388,13 @@ proxies:
     Host: t.me/vpnpool
   ws-path: /niaocloud
 - cipher: aes-256-gcm
-  name: '[11-06]|oslook|加拿大CACanada/Toronto_38'
+  name: '[11-07]|oslook|加拿大CACanada/Toronto_38'
   password: Y6R9pAtvxxzmGC
   port: 3389
   server: 134.195.196.184
   type: ss
 - cipher: aes-256-gcm
-  name: '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  name: '[11-07]|oslook|加拿大CACanada/Toronto_39'
   password: FoOiGlkAA9yPEGP
   port: 7307
   server: 134.195.196.50
@@ -404,88 +404,88 @@ proxy-groups:
   proxies:
   - ♻️ 自动选择
   - 🎯 全球直连
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: select
 - interval: 300
   name: ♻️ 自动选择
   proxies:
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: url-test
   url: http://www.gstatic.com/generate_204
 - name: 🌍 国外媒体
@@ -493,222 +493,222 @@ proxy-groups:
   - 🔰 节点选择
   - ♻️ 自动选择
   - 🎯 全球直连
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: select
 - name: 🌏 国内媒体
   proxies:
   - 🎯 全球直连
   - 🔰 节点选择
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: select
 - name: Ⓜ️ 微软服务
   proxies:
   - 🎯 全球直连
   - 🔰 节点选择
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: select
 - name: 📲 电报信息
   proxies:
   - 🔰 节点选择
   - 🎯 全球直连
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: select
 - name: 🍎 苹果服务
   proxies:
   - 🔰 节点选择
   - 🎯 全球直连
   - ♻️ 自动选择
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: select
 - name: 🎯 全球直连
   proxies:
@@ -724,45 +724,45 @@ proxy-groups:
   - 🔰 节点选择
   - 🎯 全球直连
   - ♻️ 自动选择
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
-  - '[11-06]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
-  - '[11-06]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
-  - '[11-06]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
-  - '[11-06]|oslook|台湾 5倍速节点日本 2倍速节点_7'
-  - '[11-06]|oslook|台湾 5倍速节点_8'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
-  - '[11-06]|oslook|美国USUSA/San Francisco_10'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
-  - '[11-06]|oslook|美国USUSA/Los Angeles_13'
-  - '[11-06]|oslook|荷兰NLNetherlands/Amsterdam_14'
-  - '[11-06]|oslook|新加坡SGSingapore/Singapore_15'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_16'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
-  - '[11-06]|oslook|美国USUSA/San Francisco_18'
-  - '[11-06]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
-  - '[11-06]|oslook_22'
-  - '[11-06]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
-  - '[11-06]|oslook|韩国KRKorea/Seoul_27'
-  - '[11-06]|oslook|德国DEGermany/Frankfurt am Main_28'
-  - '[11-06]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
-  - '[11-06]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
-  - '[11-06]|oslook|英国GBUnited Kiongdom/London_31'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_32'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
-  - '[11-06]|oslook|美国USUSA/Dallas_34'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_36'
-  - '[11-06]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_38'
-  - '[11-06]|oslook|加拿大CACanada/Toronto_39'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Shanghai/可能是中转节点_1'
+  - '[11-07]|oslook|台湾 5倍速节点香港07 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_2'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点_3'
+  - '[11-07]|oslook|台湾 5倍速节点香港10 免流80节点 流量倍速0.5 用2G只算1G的钱_4'
+  - '[11-07]|oslook|台湾 5倍速节点香港06  解锁流媒体 流量倍速0.5 用2G只算1G的钱_5'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_6'
+  - '[11-07]|oslook|台湾 5倍速节点日本 2倍速节点_7'
+  - '[11-07]|oslook|台湾 5倍速节点_8'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong+SAR+China/Hong+Kong_9'
+  - '[11-07]|oslook|美国USUSA/San Francisco_10'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_11'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_12'
+  - '[11-07]|oslook|美国USUSA/Los Angeles_13'
+  - '[11-07]|oslook|荷兰NLNetherlands/Amsterdam_14'
+  - '[11-07]|oslook|新加坡SGSingapore/Singapore_15'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_16'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_17'
+  - '[11-07]|oslook|美国USUSA/San Francisco_18'
+  - '[11-07]|oslook|台湾 5倍速节点新加坡 2倍速节点02_19'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_20'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_21'
+  - '[11-07]|oslook_22'
+  - '[11-07]|oslook|台湾 5倍速节点香港08 免流80节点 解锁流媒体 流量倍速0.5 用2G只算1G的钱_23'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_24'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_25'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Guangzhou/可能是中转节点_26'
+  - '[11-07]|oslook|韩国KRKorea/Seoul_27'
+  - '[11-07]|oslook|德国DEGermany/Frankfurt am Main_28'
+  - '[11-07]|oslook|台湾 5倍速节点香港02 免流80节点 流量倍速0.5 用2G只算1G的钱_29'
+  - '[11-07]|oslook|中国香港/中国台湾CNChina/Xicheng/可能是中转节点_30'
+  - '[11-07]|oslook|英国GBUnited Kiongdom/London_31'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_32'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_33'
+  - '[11-07]|oslook|美国USUSA/Dallas_34'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_35'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_36'
+  - '[11-07]|oslook|中国香港特别行政区HKHongkong SAR China/Hong Kong_37'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_38'
+  - '[11-07]|oslook|加拿大CACanada/Toronto_39'
   type: select
 rules:
 - DOMAIN-SUFFIX,local,🎯 全球直连
