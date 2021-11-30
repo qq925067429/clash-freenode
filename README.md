@@ -1,4 +1,4 @@
-# clash-freenode
+# 关注我，不迷路！https://github.com/oslook
 - 订阅地址🚀
 - 免费共享♻️
 - 定期更新✨
