@@ -29,3 +29,7 @@
 
 - ETH以太币: `0x23A0E101Feca22c95095717e666CC48402dDd6aC`
 - BTC比特币: `321VGXWfmE3r4VsHjp4J7TvLCyTguvHvFn`
+
+## 统计
+
+[![Stargazers over time](https://starchart.cc/oslook/clash-freenode.svg)](https://starchart.cc/oslook/clash-freenode)
