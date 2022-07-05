@@ -12,6 +12,8 @@
  
  (备份)  
  https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
+ 
+ https://cdn.statically.io/gh/oslook/clash-freenode/main/clash.yaml
 
 ## 应用下载
 
