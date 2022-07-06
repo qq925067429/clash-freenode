@@ -1,4 +1,8 @@
-# 关注我，不迷路！https://github.com/oslook
+# 关注我，不迷路！
+
+![Watchers](https://img.shields.io/github/watchers/oslook/clash-freenode) ![Stars](https://img.shields.io/github/stars/oslook/clash-freenode) ![Forks](https://img.shields.io/github/forks/oslook/clash-freenode) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=oslook.clash-freenode) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+
+
 - 订阅地址🚀
 - 免费共享♻️
 - 定期更新✨
