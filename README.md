@@ -9,6 +9,13 @@
 - 科学上网🌈
 - 请勿滥用🚫
 
+
+## 🎮 一个小游戏
+ 👉 点击这个[仓库](github-star.remotes.workers.dev) 然后 star⭐仓库，看看有什么变化 😊\
+ 👉 无法打开时，从[这里](http://github.com/oslook/THIS_REPO_HAS_6_STARS)进入
+
+
+
 ## Clash 订阅地址
 *注意：资源来自互联网，仅做优选和收集*
 
@@ -38,4 +45,4 @@
 
 ## 统计
 
-[![Stargazers over time](https://starchart.cc/oslook/clash-freenode.svg)](https://starchart.cc/oslook/clash-freenode)
+[![Star History Chart](https://api.star-history.com/svg?repos=oslook/clash-freenode&type=Date)](https://star-history.com/#oslook/clash-freenode&Date)
