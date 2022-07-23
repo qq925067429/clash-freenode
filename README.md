@@ -11,7 +11,7 @@
 
 
 ## 🎮 一个小游戏
- 👉 点击这个[仓库](github-star.remotes.workers.dev) 然后 star⭐仓库，看看有什么变化 😊\
+ 👉 点击这个[仓库](https://github-star.remotes.workers.dev) 然后 star⭐仓库，看看有什么变化 😊\
  👉 无法打开时，从[这里](http://github.com/oslook/THIS_REPO_HAS_6_STARS)进入
 
 
