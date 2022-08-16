@@ -1,6 +1,6 @@
 # 关注[我:man_office_worker:](https://github.com/oslook)，不迷路！
 
-![Watchers](https://img.shields.io/github/watchers/oslook/clash-freenode) ![Stars](https://img.shields.io/github/stars/oslook/clash-freenode) ![Forks](https://img.shields.io/github/forks/oslook/clash-freenode) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=oslook.clash-freenode) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
+![Watchers](https://img.shields.io/github/watchers/openrunner/clash-freenode) ![Stars](https://img.shields.io/github/stars/openrunner/clash-freenode) ![Forks](https://img.shields.io/github/forks/openrunner/clash-freenode) ![Vistors](https://visitor-badge.laobi.icu/badge?page_id=openrunner.clash-freenode) ![LICENSE](https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg)
 
 
 - 订阅地址🚀
@@ -10,18 +10,18 @@
 - 请勿滥用🚫
 
 ## 🎮 一个小游戏
- 👉 点击这个[仓库](https://github.com/oslook/THIS_REPO_HAS_22_STARS) 然后 star⭐仓库，看看有什么变化 😊  
+ 👉 点击这个[仓库](https://github.com/oslook/THIS_REPO_HAS_23_STARS) 然后 star⭐仓库，看看有什么变化 😊  
  👉 无法打开时，从[这里](http://github.com/oslook/THIS_REPO_HAS_x_STARS)进入
  
 ## Clash 订阅地址
 *注意：资源来自互联网，仅做优选和收集*
 
- https://raw.githubusercontent.com/oslook/clash-freenode/main/clash.yaml
+ https://raw.githubusercontent.com/openrunner/clash-freenode/main/clash.yaml
  
  (备份)  
- https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
+ https://cdn.jsdelivr.net/gh/openrunner/clash-freenode@main/clash.yaml
  
- https://cdn.statically.io/gh/oslook/clash-freenode/main/clash.yaml
+ https://cdn.statically.io/gh/openrunner/clash-freenode/main/clash.yaml
 
 ## 应用下载
 
@@ -42,4 +42,4 @@
 
 ## 统计
 
-[![Stargazers over time](https://starchart.cc/oslook/clash-freenode.svg)](https://starchart.cc/oslook/clash-freenode)
+[![Stargazers over time](https://starchart.cc/openrunner/clash-freenode.svg)](https://starchart.cc/openrunner/clash-freenode)
