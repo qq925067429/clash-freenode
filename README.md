@@ -10,7 +10,7 @@
 - 请勿滥用🚫
 
 ## 🎮 一个小游戏
- 👉 点击这个[仓库](https://github.com/oslook/THIS_REPO_HAS_138_STARS) 然后 star⭐仓库，看看有什么变化 😊  
+ 👉 点击这个[仓库](https://github.com/oslook/THIS_REPO_HAS_139_STARS) 然后 star⭐仓库，看看有什么变化 😊  
  👉 无法打开时，从[这里](http://github.com/oslook/THIS_REPO_HAS_x_STARS)进入
  
 ## Clash 订阅地址
