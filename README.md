@@ -22,6 +22,17 @@
  
  https://cdn.statically.io/gh/openrunner/clash-freenode/main/clash.yaml
 
+ 
+## 替代 v2ray 订阅地址
+*注意：资源来自互联网，仅做优选和收集*
+
+ https://raw.githubusercontent.com/openrunner/clash-freenode/main/v2ray.txt
+ 
+ (备份)  
+ https://cdn.jsdelivr.net/gh/openrunner/clash-freenode@main/v2ray.txt
+ 
+ https://cdn.statically.io/gh/openrunner/clash-freenode/main/v2ray.txt
+
 ## 应用下载
 
 - [Clash Windows 客户端](https://github.com/Fndroid/clash_for_windows_pkg/releases)
