@@ -3,22 +3,19 @@
 
 请跳转至 [**这里**](https://freenode.openrunner.net/) 获取最新信息。
 
-**更新时间：** `2023-11-15`
-
-*注意：资源来自互联网，仅做优选和收集*
-
+**更新时间：** `2023-11-16`
 
 ## 常见问题
 
 1. 老朋友，若您之前使用的订阅链接不好用了。
    
-   Answer: 请从 [这里](https://freenode.openrunner.net/) 获取新地址。
+   答: 请从 [这里](https://freenode.openrunner.net/) 获取新地址。
 
 2. 老朋友，若您 clone 了这个仓库的代码太旧了，请通过 sync 获取最新代码。
 
 3. 新朋友怎么使用？
 
-   Answer: 请从 [这里](https://freenode.openrunner.net/) 获取新地址。
+   答: 请从 [这里](https://freenode.openrunner.net/) 获取新地址。
 
 5. 若访问上述链接失败，请提 ISSUE 让我们知道。
 
